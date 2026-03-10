@@ -2,9 +2,9 @@
 
 A serverless URL shortening service built on AWS. Paste a long URL, get a short code back, and share it — the short link redirects anyone who clicks it to the original URL.
 
-![screenshot](demo/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/kbharat1210/url-shortener/main/url-shortener/demo/screenshot.png)
 
-![demo](demo/demo.gif)
+![demo](https://raw.githubusercontent.com/kbharat1210/url-shortener/main/url-shortener/demo/demo.gif)
 
 ---
 
